@@ -21,3 +21,5 @@ opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
 myscale/myscaledb:1.6
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
+mysql
+redis
