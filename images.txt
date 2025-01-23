@@ -1,3 +1,2 @@
-centos:7
-centos:8
-centos:latest
+golang:1.21.4
+alpine:3.11.6
