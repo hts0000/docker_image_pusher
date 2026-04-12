@@ -1,2 +1,1 @@
-bitnami/prometheus:latest
-busybox:latest
+python:3.14
