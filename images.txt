@@ -1,1 +1,1 @@
-python:3.14-slim
+us-central1-docker.pkg.dev/genuine-flight-317411/devel/holmes
