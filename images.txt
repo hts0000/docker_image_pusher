@@ -1,1 +1,1 @@
-us-central1-docker.pkg.dev/genuine-flight-317411/devel/holmes
+docker.io/kicbase/stable:v0.0.51
